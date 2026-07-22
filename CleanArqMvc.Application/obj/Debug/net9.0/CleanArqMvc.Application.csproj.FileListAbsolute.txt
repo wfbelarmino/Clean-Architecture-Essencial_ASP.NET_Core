@@ -1,0 +1,12 @@
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\bin\Debug\net9.0\CleanArqMvc.Application.deps.json
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\bin\Debug\net9.0\CleanArqMvc.Application.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\bin\Debug\net9.0\CleanArqMvc.Application.pdb
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\obj\Debug\net9.0\CleanArqMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\obj\Debug\net9.0\CleanArqMvc.Application.AssemblyInfoInputs.cache
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\obj\Debug\net9.0\CleanArqMvc.Application.AssemblyInfo.cs
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\obj\Debug\net9.0\CleanArqMvc.Application.csproj.CoreCompileInputs.cache
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\obj\Debug\net9.0\CleanArqMvc.Application.sourcelink.json
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\obj\Debug\net9.0\CleanArqMvc.Application.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\obj\Debug\net9.0\refint\CleanArqMvc.Application.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\obj\Debug\net9.0\CleanArqMvc.Application.pdb
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Application\obj\Debug\net9.0\ref\CleanArqMvc.Application.dll

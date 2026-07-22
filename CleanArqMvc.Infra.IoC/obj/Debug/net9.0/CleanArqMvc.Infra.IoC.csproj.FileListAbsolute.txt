@@ -1,0 +1,12 @@
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\bin\Debug\net9.0\CleanArqMvc.Infra.IoC.deps.json
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\bin\Debug\net9.0\CleanArqMvc.Infra.IoC.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\bin\Debug\net9.0\CleanArqMvc.Infra.IoC.pdb
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArqMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArqMvc.Infra.IoC.AssemblyInfoInputs.cache
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArqMvc.Infra.IoC.AssemblyInfo.cs
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArqMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArqMvc.Infra.IoC.sourcelink.json
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArqMvc.Infra.IoC.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\refint\CleanArqMvc.Infra.IoC.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArqMvc.Infra.IoC.pdb
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\ref\CleanArqMvc.Infra.IoC.dll
