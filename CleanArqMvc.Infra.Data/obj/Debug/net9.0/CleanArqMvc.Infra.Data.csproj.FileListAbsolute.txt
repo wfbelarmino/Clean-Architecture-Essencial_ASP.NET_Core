@@ -10,3 +10,9 @@ E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.Data\obj\Debug\net9.0\CleanArqMvc
 E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.Data\obj\Debug\net9.0\refint\CleanArqMvc.Infra.Data.dll
 E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.Data\obj\Debug\net9.0\CleanArqMvc.Infra.Data.pdb
 E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.Data\obj\Debug\net9.0\ref\CleanArqMvc.Infra.Data.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.Data\bin\Debug\net9.0\CleanArqMvc.Application.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.Data\bin\Debug\net9.0\CleanArqMvc.Domain.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.Data\bin\Debug\net9.0\CleanArqMvc.Application.pdb
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.Data\bin\Debug\net9.0\CleanArqMvc.Domain.pdb
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.Data\obj\Debug\net9.0\CleanArqMvc.Infra.Data.csproj.AssemblyReference.cache
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.Data\obj\Debug\net9.0\CleanArq.4F9835DD.Up2Date

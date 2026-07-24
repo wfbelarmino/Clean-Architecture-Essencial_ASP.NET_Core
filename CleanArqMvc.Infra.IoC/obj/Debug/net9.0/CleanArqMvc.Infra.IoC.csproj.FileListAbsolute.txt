@@ -10,3 +10,7 @@ E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArqMvc.
 E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\refint\CleanArqMvc.Infra.IoC.dll
 E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArqMvc.Infra.IoC.pdb
 E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\ref\CleanArqMvc.Infra.IoC.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\bin\Debug\net9.0\CleanArqMvc.Domain.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\bin\Debug\net9.0\CleanArqMvc.Domain.pdb
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArqMvc.Infra.IoC.csproj.AssemblyReference.cache
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.Infra.IoC\obj\Debug\net9.0\CleanArq.5DDCB46D.Up2Date

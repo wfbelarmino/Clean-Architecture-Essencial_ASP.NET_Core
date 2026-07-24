@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArqMvc.Infra.IoC\CleanArqMvc.Infra.IoC.csproj" />
+  </ItemGroup>
+
 </Project>

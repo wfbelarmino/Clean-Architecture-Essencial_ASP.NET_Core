@@ -7,14 +7,46 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "CleanArqMvc.WebUI/1.0.0": {
+        "dependencies": {
+          "CleanArqMvc.Infra.IoC": "1.0.0"
+        },
         "runtime": {
           "CleanArqMvc.WebUI.dll": {}
+        }
+      },
+      "CleanArqMvc.Domain/1.0.0": {
+        "runtime": {
+          "CleanArqMvc.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CleanArqMvc.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "CleanArqMvc.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArqMvc.Infra.IoC.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "CleanArqMvc.WebUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArqMvc.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArqMvc.Infra.IoC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
