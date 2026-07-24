@@ -95,3 +95,9 @@ E:\Projetos\curso_cleanarqvc\CleanArqMvc.WebUI\obj\Debug\net9.0\refint\CleanArqM
 E:\Projetos\curso_cleanarqvc\CleanArqMvc.WebUI\obj\Debug\net9.0\CleanArqMvc.WebUI.pdb
 E:\Projetos\curso_cleanarqvc\CleanArqMvc.WebUI\obj\Debug\net9.0\CleanArqMvc.WebUI.genruntimeconfig.cache
 E:\Projetos\curso_cleanarqvc\CleanArqMvc.WebUI\obj\Debug\net9.0\ref\CleanArqMvc.WebUI.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.WebUI\bin\Debug\net9.0\CleanArqMvc.Domain.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.WebUI\bin\Debug\net9.0\CleanArqMvc.Infra.IoC.dll
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.WebUI\bin\Debug\net9.0\CleanArqMvc.Infra.IoC.pdb
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.WebUI\bin\Debug\net9.0\CleanArqMvc.Domain.pdb
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.WebUI\obj\Debug\net9.0\CleanArqMvc.WebUI.csproj.AssemblyReference.cache
+E:\Projetos\curso_cleanarqvc\CleanArqMvc.WebUI\obj\Debug\net9.0\CleanArq.B8126CA7.Up2Date

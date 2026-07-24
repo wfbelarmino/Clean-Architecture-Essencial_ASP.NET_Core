@@ -190,3 +190,5 @@ pull request - Mecanismo usado para submeter alterações propostas ao repositó
 gist - Ferramenta que permite o compartilhamento de trechos de código sem a necessidade de criar um repositório completo. Gists podem ser compartilhados publicamente ou de forma privada.
 
 Contribuição ✨
+
+https://github.com/iuricode/padroes-de-commits

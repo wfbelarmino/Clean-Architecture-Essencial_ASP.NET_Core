@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArqMvc.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ad44c0363c2e09dff2ab98019e67de6d5d30876")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+529950069f08e001818d0fb444bd4b8bbcf5879f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArqMvc.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArqMvc.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
