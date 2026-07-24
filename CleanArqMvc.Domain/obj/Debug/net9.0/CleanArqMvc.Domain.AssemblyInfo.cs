@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArqMvc.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+529950069f08e001818d0fb444bd4b8bbcf5879f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+375f6200e6f38e09d2369ff0425353674211d067")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArqMvc.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArqMvc.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
